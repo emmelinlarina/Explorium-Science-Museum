@@ -1,9 +1,7 @@
 # Semester-Project-1
 My first project exam brief. This assignment simulates a real-world brief that you may receive at from a web agency. The aim is to use your new knowledge of project planning, web design and development to complete the brief in the available time.
 Client
-An interactive science museum called the *Community Science Museum* is opening soon near your location. Its core target audience is primary and middle school children (ages 7-15) and families with young children.
-
-You may adapt the name of the museum to suit your location, but the core audience should remain the same.
+An interactive science museum called the *Community Science Museum* is opening soon near your location. Its core target audience is primary and middle school children (ages 7-15) and families with young children. You may adapt the name of the museum to suit your location, but the core audience should remain the same.
 
 Brief
 Design and build a modern, accessible and responsive web presence for the client using the provided image and text content.
